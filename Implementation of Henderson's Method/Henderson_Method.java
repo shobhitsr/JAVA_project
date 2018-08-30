@@ -31,7 +31,7 @@ public class Henderson_Method
 		float AverageNumbersPassed;
 		float Increment;
 		
-		if (args.length > 0) {
+		if ( args.length > 0 ) {
 			StartNumber = Integer.valueOf(args[0]); // taking the arguments from the command line
 		}
 		System.out.println("Decrement    Current      Count"); // printing the header
@@ -55,7 +55,7 @@ public class Henderson_Method
 			}
 		}
 		
-		if (StartNumber > 0) //to display the last number
+		if ( StartNumber > 0 ) //to display the last number
 		{
 			System.out.format("%9d      %5d       %5d ", SubstractBy, StartNumber, SubstractByCounter); //formatting the output
 		
