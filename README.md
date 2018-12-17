@@ -8,4 +8,6 @@ The projects included in this repository are:
 
 2: Text Numerology: In this project numerology is used to assign a numerical value to a string based on values assigned to the individual letters according to a variety of rules.
 
-3: 
+3: Movie Similarity: In this project I created a recommender system that processes a list of movies and a matrix of similarities between the movies to use pearson r correlation to find movies similar to the movie entered in the prompt.
+
+4: Demo Calculater: In this project I created a simple calculator to understand how the GUI works and understand some of the basic functionailties of NetBeans.
